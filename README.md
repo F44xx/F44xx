@@ -103,14 +103,6 @@ Cada repositorio busca documentar de forma clara la metodología utilizada, incl
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=F44xx&show_icons=true&theme=dark" />
-
-</p>
-
 ---
 
 ## 📫 Contacto
