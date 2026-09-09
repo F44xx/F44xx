@@ -102,7 +102,11 @@ Cada repositorio busca documentar de forma clara la metodología utilizada, incl
 * Técnicas de Privilege Escalation
 
 ---
+## 📂 My Projects
 
+- **[CTF Writeups](https://github.com/F44xx/ctf-writeups)** - máquinas resueltas (Dockerlabs + TryHackMe)
+  - Reconocimiento → Explotación → Escalada
+  - Documentación detallada con comandos y técnicas
 ---
 
 ## 📫 Contacto
